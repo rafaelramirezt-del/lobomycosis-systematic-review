@@ -60,5 +60,7 @@ The coauthors have agreed to open publication of this work. The repository is pu
 
 - **R scripts:** [MIT License](LICENSE), allowing reuse, modification and redistribution.
 - **Original research data, figures and documentation:** [CC BY 4.0](LICENSE-DATA.md), allowing reuse and adaptation with attribution. Third-party publications and externally sourced assets are not relicensed here.
-- **Citation:** use [CITATION.cff](CITATION.cff) and the Zenodo archive DOI [10.5281/zenodo.24255907](https://doi.org/10.5281/zenodo.24255907). Cite the originating publications when reusing their extracted data. For exact reproduction of a specific release, consult the version-specific DOI shown on Zenodo.
+- **Cite the archived v1.0.0 dataset and scripts:** [10.5281/zenodo.24255906](https://doi.org/10.5281/zenodo.24255906) (version-specific DOI, recommended for manuscript reproducibility).
+- **All versions of the repository:** [10.5281/zenodo.24255907](https://doi.org/10.5281/zenodo.24255907) (concept DOI, also used in the badge above).
+- **Citation metadata:** see [CITATION.cff](CITATION.cff). Cite the originating publications when reusing extracted data.
 
