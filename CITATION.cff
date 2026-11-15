@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this dataset or its R scripts, please cite this repository and the associated article when published."
 type: dataset
+doi: 10.5281/zenodo.24255907
+repository-code: https://github.com/rafaelramirezt-del/lobomycosis-systematic-review
 title: "Global burden of lobomycosis or Jorge Lobo's disease: a systematic review — data and reproducible figures"
 authors:
   - family-names: "Ramírez-Trujillo"
