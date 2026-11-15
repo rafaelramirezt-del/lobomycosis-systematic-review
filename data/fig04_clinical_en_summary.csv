@@ -1,0 +1,20 @@
+"Panel","Variable","Category","Count","Percent (%)","Available n","ND n"
+"A","Anatomical location","Lower limb",66,43.4210526315789,152,104
+"A","Anatomical location","Upper limb",52,34.2105263157895,152,104
+"A","Anatomical location","Trunk",44,28.9473684210526,152,104
+"A","Anatomical location","Head and neck",34,22.3684210526316,152,104
+"A","Anatomical location","Extremities",4,2.63157894736842,152,104
+"A","Anatomical location","Lymph nodes",3,1.97368421052632,152,104
+"A","Anatomical location","Genital region",2,1.31578947368421,152,104
+"B","Lesion morphology","Nodular",87,69.6,125,131
+"B","Lesion morphology","Keloid-like",65,52,125,131
+"B","Lesion morphology","Plaque",40,32,125,131
+"B","Lesion morphology","Ulcerative",28,22.4,125,131
+"B","Lesion morphology","Tumoral",18,14.4,125,131
+"B","Lesion morphology","Papular",15,12,125,131
+"B","Lesion morphology","Verrucous",13,10.4,125,131
+"B","Lesion morphology","Cicatricial",8,6.4,125,131
+"B","Lesion morphology","Infiltrative",4,3.2,125,131
+"B","Lesion morphology","Crusted",3,2.4,125,131
+"B","Lesion morphology","Macular",2,1.6,125,131
+"B","Lesion morphology","Hyperkeratotic",2,1.6,125,131

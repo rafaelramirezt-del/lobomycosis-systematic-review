@@ -1,0 +1,10 @@
+"Block","Treatment group","Records","Complete response","Partial response","Clinical stabilization","No response","Clinical progression","Response ND","Recurrence no","Recurrence yes","Recurrence ND","Follow-up exact","Follow-up lower bound","Follow-up ND","complete_pct","partial_pct","stable_pct","no_response_pct","progressive_pct","response_nd_pct","recurrence_no_pct","recurrence_yes_pct","recurrence_nd_pct"
+"Clinical trial: LBM-054","MDT",54,11,38,0,5,0,0,11,0,43,0,11,43,20.4,70.4,0,9.3,0,0,20.4,0,79.6
+"Clinical trial: LBM-054","MDT + itraconazole",26,9,14,0,3,0,0,9,0,17,0,9,17,34.6,53.8,0,11.5,0,0,34.6,0,65.4
+"Clinical trial: LBM-054","Control",23,0,4,0,19,0,0,0,0,23,0,0,23,0,17.4,0,82.6,0,0,0,0,100
+"Other studies","Local procedures",16,10,0,0,2,2,2,10,2,4,6,1,9,62.5,0,0,12.5,12.5,12.5,62.5,12.5,25
+"Other studies","Local + systemic",16,7,4,4,0,1,0,7,1,8,12,0,4,43.8,25,25,0,6.2,0,43.8,6.2,50
+"Other studies","Itraconazole",6,0,4,0,2,0,0,0,0,6,1,1,4,0,66.7,0,33.3,0,0,0,0,100
+"Other studies","Clofazimine + itraconazole",3,1,0,0,2,0,0,1,0,2,1,0,2,33.3,0,0,66.7,0,0,33.3,0,66.7
+"Other studies","Posaconazole",2,0,2,0,0,0,0,0,0,2,2,0,0,0,100,0,0,0,0,0,0,100
+"Other studies","Other pharmacological treatments",7,0,1,0,2,3,1,1,1,5,4,0,3,0,14.3,0,28.6,42.9,14.3,14.3,14.3,71.4

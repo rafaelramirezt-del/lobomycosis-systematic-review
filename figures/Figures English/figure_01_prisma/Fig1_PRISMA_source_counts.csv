@@ -1,0 +1,21 @@
+Stage,Item,Count
+Identification,PubMed,582
+Identification,Embase,1048
+Identification,Scopus,415
+Identification,Springer Nature Link,579
+Identification,Total records identified,2624
+Pre-screening,Duplicate records removed,1519
+Pre-screening,Off-topic search matches removed,296
+Pre-screening,Total records removed before screening,1815
+Screening,Records screened,809
+Screening,Records excluded,618
+Retrieval,Reports sought for retrieval,191
+Retrieval,Reports not retrieved,16
+Eligibility,Reports assessed for eligibility,175
+Eligibility,Animal studies excluded,53
+Eligibility,Review articles excluded,20
+Eligibility,Overlapping cases excluded,4
+Eligibility,Total reports excluded,77
+Inclusion,Publications included,98
+Inclusion,Publications providing individual-level data,71
+Inclusion,Individual records extracted,256

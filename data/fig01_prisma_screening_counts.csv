@@ -1,0 +1,18 @@
+﻿stage,description,n,source,verification_status
+Identification,Embase,1048,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Identification,PubMed,582,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Identification,Scopus,415,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Identification,Springer Nature Link,579,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Pre-screen removal,Duplicates,1519,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Pre-screen removal,Not related to search topic,296,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Title/abstract screening,Screened,809,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Title/abstract screening,Excluded,618,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Full-text retrieval,Sought,191,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Full-text retrieval,Not retrieved,16,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Full-text eligibility,Assessed,175,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Full-text eligibility,Animal studies,53,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Full-text eligibility,Reviews,20,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Full-text eligibility,Overlapping cases,4,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Included,Publications,98,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Included,Publications yielding individual records,71,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log
+Included,Individual records,256,"Manuscript, Results: Selection and characteristics of publications",Not cross-checked against original screening log

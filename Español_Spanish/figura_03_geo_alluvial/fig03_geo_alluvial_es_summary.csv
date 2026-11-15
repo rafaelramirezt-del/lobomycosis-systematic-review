@@ -1,0 +1,48 @@
+"seccion","categoria","n","denominador","porcentaje"
+"General","Todos los registros individuales",256,256,100
+"General","País disponible",233,256,91
+"General","Región disponible",226,256,88.3
+"General","Regiones americanas representadas",224,256,87.5
+"General","Registros completos en B",46,256,18
+"País de adquisición","Bolivia",1,256,0.4
+"País de adquisición","Brasil",176,256,68.8
+"País de adquisición","Colombia",30,256,11.7
+"País de adquisición","Ecuador",5,256,2
+"País de adquisición","Grecia",1,256,0.4
+"País de adquisición","Guyana",3,256,1.2
+"País de adquisición","India",1,256,0.4
+"País de adquisición","México",2,256,0.8
+"País de adquisición","Panamá",3,256,1.2
+"País de adquisición","Perú",1,256,0.4
+"País de adquisición","Palestina",1,256,0.4
+"País de adquisición","Surinam",1,256,0.4
+"País de adquisición","Venezuela",8,256,3.1
+"Región de adquisición","Amazonía",187,256,73
+"Región de adquisición","Caribe",1,256,0.4
+"Región de adquisición","Centroamérica",3,256,1.2
+"Región de adquisición","Escudo Guayanés",10,256,3.9
+"Región de adquisición","ND",30,256,11.7
+"Región de adquisición","Oriente Medio",1,256,0.4
+"Región de adquisición","Orinoquía",18,256,7
+"Región de adquisición","Pacífico colombiano",3,256,1.2
+"Región de adquisición","Sudeste de Brasil",1,256,0.4
+"Región de adquisición","Sudeste de Europa",1,256,0.4
+"Región de adquisición","Sudeste de México",1,256,0.4
+"Panel B: exposición","Forestal",14,46,30.4
+"Panel B: exposición","Agrícola",11,46,23.9
+"Panel B: exposición","Combinada",12,46,26.1
+"Panel B: exposición","Minera",5,46,10.9
+"Panel B: exposición","Ambiental",2,46,4.3
+"Panel B: exposición","Acuática",1,46,2.2
+"Panel B: exposición","Pesquera/fluvial",1,46,2.2
+"Panel B: grupos de edad","9–42 años",13,46,28.3
+"Panel B: grupos de edad","43–55 años",11,46,23.9
+"Panel B: grupos de edad","56–65 años",12,46,26.1
+"Panel B: grupos de edad","66–93 años",10,46,21.7
+"Panel B: distribución clínica","Localizada",37,46,80.4
+"Panel B: distribución clínica","Diseminada",9,46,19.6
+"Panel B: distribución clínica","multifocal/diseminada no diferenciada",0,46,0
+"Panel B: regiones","Amazonía",29,46,63
+"Panel B: regiones","Escudo Guayanés",8,46,17.4
+"Panel B: regiones","Centroamérica",2,46,4.3
+"Panel B: regiones","Otras regiones",7,46,15.2

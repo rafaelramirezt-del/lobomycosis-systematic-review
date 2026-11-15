@@ -1,0 +1,52 @@
+# Reproducir las figuras en español
+
+Esta carpeta ofrece la versión en español de los datos, scripts y figuras de la revisión sistemática sobre lobomicosis. Es un complemento del repositorio principal en inglés, preparado para facilitar la reproducción de los análisis en Colombia y otros países hispanohablantes.
+
+## Requisitos
+
+- R y RStudio, con la fuente **Arial** instalada.
+- Los paquetes de R utilizados por las figuras. Para instalarlos una sola vez, ejecuta en la consola de R:
+
+```r
+install.packages(c(
+  "readxl", "openxlsx", "ragg", "systemfonts", "ggplot2",
+  "dplyr", "tidyr", "sf", "rnaturalearth", "rnaturalearthdata",
+  "ggalluvial", "cowplot", "scales", "ggrepel", "patchwork"
+))
+```
+
+## Ejecutar una figura
+
+1. Abre en RStudio el archivo `.R` de la figura que quieras reproducir.
+2. Haz clic en **Source** para ejecutar el script completo.
+3. Cuando aparezca la ventana de selección (`file.choose()`), elige **`raw/Lobomycosis_base_datos_ES.xlsx`** dentro de `Español_Spanish/`.
+4. Revisa los resultados y las comprobaciones del Excel de auditoría.
+
+**Cada script genera exactamente cuatro archivos junto al propio `.R`**: una imagen `.png`, una imagen `.tiff`, un resumen `_summary.csv` y un Excel `_audit.xlsx` con una sola hoja. La base original no se modifica. Si ya existen archivos de una ejecución anterior, se puede añadir un sufijo `_run01`, `_run02`, etc.
+
+## Figuras disponibles
+
+| Figura | Script en español |
+| --- | --- |
+| Figura 2 — Distribución geográfica | `fig02_geo_es.R` |
+| Figura 3 — Mapa y diagrama aluvial | `fig03_geo_alluvial_es.R` |
+| Figura 4 — Localización anatómica y morfología | `fig04_clinical_es.R` |
+| Figura 5 — Tratamientos y desenlaces | `fig05_treatment_es.R` |
+| Figura S1 — Tiempo de evolución y distribución clínica | `figs01_duration_es.R` |
+| Figura S2 — Publicaciones y métodos diagnósticos | `figs02_diagnosis_es.R` |
+| Figura S3 — Matriz de disponibilidad de información | `figs03_evidence_es.R` |
+
+La **Figura 1 (PRISMA)** se preparó por separado y no requiere un script de R. Los scripts y sus resultados pueden encontrarse dentro de las subcarpetas de cada figura.
+
+## Notas para interpretar los resultados
+
+- `ND` significa información no disponible; no equivale a cero.
+- Los denominadores cambian según la variable y el nivel de análisis (publicación o registro individual).
+- En la **Figura S2** no se representa «Cultivo», siguiendo la decisión editorial del equipo investigador.
+- Los resultados corresponden a una síntesis descriptiva de información publicada, no a estimaciones de incidencia ni a comparaciones causales de tratamientos.
+
+Para la descripción completa del estudio, consulta el `README.md` de la carpeta principal del repositorio. La versión en inglés es la referencia principal para el manuscrito destinado a *PLOS ONE*.
+
+## Reutilización y citación
+
+Los scripts se publican con licencia **MIT** y las bases, figuras y documentación originales con **CC BY 4.0**. Consulta los archivos `LICENSE`, `LICENSE-DATA.md` y `CITATION.cff` de la carpeta principal. Puedes reutilizar el material citando el repositorio y los estudios originales de los que provienen los datos.

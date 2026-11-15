@@ -1,0 +1,20 @@
+"Panel";"Variable";"Categoría";"Frecuencia";"Porcentaje (%)";"Disponibles n";"ND n"
+"A";"Localización anatómica";"Miembro inferior";66;43,4210526315789;152;104
+"A";"Localización anatómica";"Miembro superior";52;34,2105263157895;152;104
+"A";"Localización anatómica";"Tronco";44;28,9473684210526;152;104
+"A";"Localización anatómica";"Cabeza y cuello";34;22,3684210526316;152;104
+"A";"Localización anatómica";"Extremidades";4;2,63157894736842;152;104
+"A";"Localización anatómica";"Ganglios linfáticos";3;1,97368421052632;152;104
+"A";"Localización anatómica";"Región genital";2;1,31578947368421;152;104
+"B";"Morfología de las lesiones";"Nodular";87;69,6;125;131
+"B";"Morfología de las lesiones";"Queloidiforme";65;52;125;131
+"B";"Morfología de las lesiones";"Placa";40;32;125;131
+"B";"Morfología de las lesiones";"Ulcerativa";28;22,4;125;131
+"B";"Morfología de las lesiones";"Tumoral";18;14,4;125;131
+"B";"Morfología de las lesiones";"Papular";15;12;125;131
+"B";"Morfología de las lesiones";"Verrucosa";13;10,4;125;131
+"B";"Morfología de las lesiones";"Cicatricial";8;6,4;125;131
+"B";"Morfología de las lesiones";"Infiltrativa";4;3,2;125;131
+"B";"Morfología de las lesiones";"Costrosa";3;2,4;125;131
+"B";"Morfología de las lesiones";"Macular";2;1,6;125;131
+"B";"Morfología de las lesiones";"Hiperqueratósica";2;1,6;125;131

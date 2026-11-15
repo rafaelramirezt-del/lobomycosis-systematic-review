@@ -1,0 +1,20 @@
+# R and RStudio local state
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Non-reproducible outputs and scratch files
+*.log
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+
+# External private credentials and service files
+.env
+.env.*
+*.key
+*.pem
+
+# Do not ignore raw analytic data by default: public sharing still requires review.

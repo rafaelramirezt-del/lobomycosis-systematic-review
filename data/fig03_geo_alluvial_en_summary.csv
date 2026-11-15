@@ -1,0 +1,56 @@
+"section","category","n","denominator","percent"
+"General","All individual records",256,256,100
+"General","Country available",233,256,91
+"General","Region available",226,256,88.3
+"General","American regions mapped",224,256,87.5
+"General","Panel B complete records",46,256,18
+"Country of acquisition","Bolivia",1,233,0.4
+"Country of acquisition","Brazil",176,233,75.5
+"Country of acquisition","Colombia",30,233,12.9
+"Country of acquisition","Ecuador",5,233,2.1
+"Country of acquisition","Greece",1,233,0.4
+"Country of acquisition","Guyana",3,233,1.3
+"Country of acquisition","India",1,233,0.4
+"Country of acquisition","Mexico",2,233,0.9
+"Country of acquisition","Panama",3,233,1.3
+"Country of acquisition","Peru",1,233,0.4
+"Country of acquisition","Palestine",1,233,0.4
+"Country of acquisition","Suriname",1,233,0.4
+"Country of acquisition","Venezuela",8,233,3.4
+"Region of acquisition (all records)","Amazon region",187,256,73
+"Region of acquisition (all records)","Caribbean",1,256,0.4
+"Region of acquisition (all records)","Central America",3,256,1.2
+"Region of acquisition (all records)","Colombian Pacific region",3,256,1.2
+"Region of acquisition (all records)","Guiana Shield",10,256,3.9
+"Region of acquisition (all records)","Middle East",1,256,0.4
+"Region of acquisition (all records)","ND",30,256,11.7
+"Region of acquisition (all records)","Orinoco region",18,256,7
+"Region of acquisition (all records)","Southeastern Brazil",1,256,0.4
+"Region of acquisition (all records)","Southeastern Europe",1,256,0.4
+"Region of acquisition (all records)","Southeastern Mexico",1,256,0.4
+"American acquisition regions","Amazon region",187,224,83.5
+"American acquisition regions","Orinoco region",18,224,8
+"American acquisition regions","Guiana Shield",10,224,4.5
+"American acquisition regions","Central America",3,224,1.3
+"American acquisition regions","Colombian Pacific region",3,224,1.3
+"American acquisition regions","Southeastern Mexico",1,224,0.4
+"American acquisition regions","Caribbean",1,224,0.4
+"American acquisition regions","Southeastern Brazil",1,224,0.4
+"Panel B: exposure","Forestry",14,46,30.4
+"Panel B: exposure","Agricultural",11,46,23.9
+"Panel B: exposure","Combined",12,46,26.1
+"Panel B: exposure","Mining",5,46,10.9
+"Panel B: exposure","Environmental",2,46,4.3
+"Panel B: exposure","Aquatic",1,46,2.2
+"Panel B: exposure","Fishing/riverine",1,46,2.2
+"Panel B: age groups","9–42 years",13,46,28.3
+"Panel B: age groups","43–55 years",11,46,23.9
+"Panel B: age groups","56–65 years",12,46,26.1
+"Panel B: age groups","66–93 years",10,46,21.7
+"Panel B: clinical distribution","Localized",37,46,80.4
+"Panel B: clinical distribution","Disseminated",9,46,19.6
+"Panel B: clinical distribution","Multifocal/disseminated, not differentiated",0,46,0
+"Panel B: regions","Amazon region",29,46,63
+"Panel B: regions","Guiana Shield",8,46,17.4
+"Panel B: regions","Central America",2,46,4.3
+"Panel B: regions","Other regions",7,46,15.2
