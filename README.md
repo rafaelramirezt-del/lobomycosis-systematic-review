@@ -1,5 +1,7 @@
 # Lobomycosis systematic review — data and reproducible figures
 
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24255907.svg)](https://doi.org/10.5281/zenodo.24255907)
+
 This repository supports a systematic review of human lobomycosis prepared for *PLOS ONE*. The dataset comprises **98 publications** (1962–2026); 94 publications report a combined **1,463 cases**, and 71 publications provide **256 extracted individual records**. Reported case counts may overlap across publications and must not be interpreted as unique patients.
 
 The main materials are in **English**. An optional Spanish-language reproduction package is available in [`Español_Spanish/`](Espa%C3%B1ol_Spanish/LEEME.md).
@@ -52,11 +54,11 @@ This archive contains all 14 paired R scripts, 14 PNG/TIFF pairs and 14 Excel au
 
 The 1,200-dpi TIFF figures are **master exports**. Separate submission-ready derivatives may be needed to satisfy *PLOS ONE* figure specifications; do not overwrite the masters. The English Figure 3 TIFF is larger than 10 MB, and the PRISMA TIFF is 220 dpi.
 
-The coauthors have agreed to open publication of this work. Before public release, check that no private information or third-party material lacking redistribution rights is included. No DOI has been assigned yet; it will be added to the citation file after the first Zenodo release.
+The coauthors have agreed to open publication of this work. The repository is publicly archived in Zenodo under DOI [10.5281/zenodo.24255907](https://doi.org/10.5281/zenodo.24255907). Respect privacy and third-party redistribution rights when reusing the materials.
 
 ## Licenses and citation
 
 - **R scripts:** [MIT License](LICENSE), allowing reuse, modification and redistribution.
 - **Original research data, figures and documentation:** [CC BY 4.0](LICENSE-DATA.md), allowing reuse and adaptation with attribution. Third-party publications and externally sourced assets are not relicensed here.
-- **Citation:** use [CITATION.cff](CITATION.cff). Cite the originating publications when reusing their extracted data. A Zenodo DOI will be added after the first archived release.
+- **Citation:** use [CITATION.cff](CITATION.cff) and the Zenodo archive DOI [10.5281/zenodo.24255907](https://doi.org/10.5281/zenodo.24255907). Cite the originating publications when reusing their extracted data. For exact reproduction of a specific release, consult the version-specific DOI shown on Zenodo.
 
