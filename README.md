@@ -2,7 +2,7 @@
 
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24255907.svg)](https://doi.org/10.5281/zenodo.24255907)
 
-This repository supports a systematic review of human lobomycosis prepared for *PLOS ONE*. The dataset comprises **98 publications** (1962–2026); 94 publications report a combined **1,463 cases**, and 71 publications provide **256 extracted individual records**. Reported case counts may overlap across publications and must not be interpreted as unique patients.
+This repository provides the data, analysis scripts, figures and audit files supporting a systematic review of human lobomycosis. Its purpose is to enable independent inspection, reproduction and reuse of the published-evidence synthesis. The dataset comprises **98 publications** (1962–2026); 94 publications report a combined **1,463 cases**, and 71 publications provide **256 extracted individual records**. Reported case counts may overlap across publications and must not be interpreted as unique patients.
 
 The main materials are in **English**. An optional Spanish-language reproduction package is available in [`Español_Spanish/`](Espa%C3%B1ol_Spanish/LEEME.md).
 
@@ -51,7 +51,7 @@ The input workbook is never modified. Existing outputs are preserved by adding a
 
 The archived v1.0.0 release contains all 14 R scripts (seven in each language), 14 PNG/TIFF figure pairs and 14 Excel audit workbooks. **Figures S1, S2 and S3 are complete in both languages.** Across the stored audits, **292 manuscript controls are marked successful**, with no failed controls detected. This is a check of saved files and data; **the authors have successfully run the scripts in RStudio; independent execution in a clean R environment has not yet been documented**. See `docs/repository_audit_2026-11-15.md`.
 
-The stored figure files are the research outputs for this release. Any journal-specific submission files should be prepared separately without altering the archived originals.
+The stored figure files are the research outputs for this release and are retained alongside their scripts, summaries and audits to support reproducibility.
 
 The coauthors have agreed to open publication of this work. The repository is publicly archived in Zenodo under DOI [10.5281/zenodo.24255907](https://doi.org/10.5281/zenodo.24255907). Respect privacy and third-party redistribution rights when reusing the materials.
 
