@@ -51,7 +51,7 @@ The input workbook is never modified. Existing outputs are preserved by adding a
 
 The archived v1.0.0 release contains all 14 R scripts (seven in each language), 14 PNG/TIFF figure pairs and 14 Excel audit workbooks. **Figures S1, S2 and S3 are complete in both languages.** Across the stored audits, **292 manuscript controls are marked successful**, with no failed controls detected. This is a check of saved files and data; **the authors have successfully run the scripts in RStudio; independent execution in a clean R environment has not yet been documented**. See `docs/repository_audit_2026-11-15.md`.
 
-The 1,200-dpi TIFF figures are **master exports**. Separate submission-ready derivatives may be needed to satisfy *PLOS ONE* figure specifications; do not overwrite the masters. The English Figure 3 TIFF is larger than 10 MB, and the PRISMA TIFF is 220 dpi.
+The stored figure files are the research outputs for this release. Any journal-specific submission files should be prepared separately without altering the archived originals.
 
 The coauthors have agreed to open publication of this work. The repository is publicly archived in Zenodo under DOI [10.5281/zenodo.24255907](https://doi.org/10.5281/zenodo.24255907). Respect privacy and third-party redistribution rights when reusing the materials.
 
