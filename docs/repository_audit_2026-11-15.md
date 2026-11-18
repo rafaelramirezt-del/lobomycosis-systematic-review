@@ -34,14 +34,13 @@ Los 14 libros de auditoría registran **146 controles `PASS` en inglés y 131 `P
 
 La versión `v1.0.0` está archivada en Zenodo. Los scripts disponen de licencia MIT y el material original de datos y documentación de licencia CC BY 4.0, con metadatos de citación en `CITATION.cff`.
 
-Los documentos Word de las Tablas 1 y 2 y las suplementarias S1–S3 se mantienen fuera del paquete de análisis archivado, como materiales editoriales del manuscrito. Su ausencia del paquete no significa que falte un análisis.
+Los documentos Word de las Tablas 1 y 2 y las suplementarias S1–S3 no forman parte del paquete archivado de datos y código. La reproducción de los análisis se realiza con las bases Excel, los scripts R y sus archivos de auditoría.
 
 El diccionario `docs/data_dictionary_draft.csv` está identificado como **borrador**; no debe anunciarse como definitivo sin validación.
 
 ## Comprobaciones adicionales, no análisis pendientes
 
 - La reproducción independiente en una instalación limpia de R con versiones de paquetes registradas podría fortalecer la validación externa.
-- Las copias editoriales de figuras para *PLOS ONE*, de ser necesarias, deben derivarse de las imágenes maestras sin modificarlas.
 - Los derechos de materiales de terceros deben respetarse en cualquier reutilización.
 
 **Conclusión:** los siete análisis de figuras por idioma, sus archivos gráficos y sus auditorías están completos. Esta actualización corrige únicamente la descripción documental. Los cambios posteriores en `main` no alteran el registro inmutable de Zenodo v1.0.0.
