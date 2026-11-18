@@ -46,7 +46,7 @@ La **Figura 1 (PRISMA)** se preparó por separado y no requiere un script de R. 
 - Los denominadores cambian según la variable y el nivel de análisis (publicación o registro individual).
 - Los resultados corresponden a una síntesis descriptiva de información publicada, no a estimaciones de incidencia ni a comparaciones causales de tratamientos.
 
-Para la descripción completa del estudio, consulta el [`README.md`](../README.md) de la carpeta principal del repositorio. La versión en inglés es la referencia principal para el manuscrito destinado a *PLOS ONE*.
+Para la descripción completa del estudio, consulta el [`README.md`](../README.md) de la carpeta principal del repositorio. La versión en inglés constituye la documentación principal del repositorio; esta carpeta permite reproducir los análisis en español.
 
 ## Reutilización y citación
 
