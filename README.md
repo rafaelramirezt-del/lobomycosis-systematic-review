@@ -17,7 +17,7 @@ The main materials are in **English**. An optional Spanish-language reproduction
 | `Español_Spanish/` | Spanish dataset, seven R scripts, plots, CSV summaries and audits, plus `LEEME.md` |
 | `docs/` | Analysis manifest, provisional data dictionary and repository audit |
 
-Figure 1 (PRISMA) was made in PowerPoint and has no R script. Figures 2–5 and S1–S3 each have an English script and a Spanish counterpart. The two languages use separate data workbooks.
+Figure 1 (PRISMA) was made in PowerPoint and has no R script. Figures 2–5 and S1–S3 each have an English script and a Spanish counterpart. **All seven R-generated figures, including S1–S3, are complete in English and Spanish**, with corresponding PNG, TIFF, CSV summaries and Excel audits. The two languages use separate data workbooks.
 
 ## Reproduce a figure in RStudio
 
@@ -41,20 +41,23 @@ The input workbook is never modified. Existing outputs are preserved by adding a
 ## Analytical notes
 
 - Publication counts, reported case totals and individually extracted records have different denominators.
-- `ND` denotes unavailable information, not zero or a negative finding.
+- **ND = not documented** (Spanish: **no documentado**): information absent or insufficiently described in the source publication. ND is not zero, a negative result or absence of clinical response.
 - A record with multiple anatomical sites or morphological categories can contribute to more than one category, but only once within each category.
 - Values recorded as `>` or `≥` are lower bounds and are excluded from medians and interquartile ranges for exact durations.
-- **Culture/Cultivo is excluded** from Figure S2. The definitive English and Spanish source workbooks supplied for this release contain no Culture/Cultivo mentions in either analytical sheet.
 - Regional boundaries in Figure 3 are schematic where no verified boundary file is provided. The maps are not incidence or prevalence estimates.
 - Treatment/outcome comparisons are descriptive, not causal estimates of treatment effectiveness.
 
-## Validation and release status
+## Completed analyses, validation and release status
 
-This archive contains all 14 paired R scripts, 14 PNG/TIFF pairs and 14 Excel audit workbooks. Across the stored audits, **292 manuscript controls are marked successful**, with no failed controls detected. This is a check of saved files and data; **the authors have successfully run the scripts in RStudio; independent execution in a clean R environment has not yet been documented**. See `docs/repository_audit_2026-11-15.md`.
+The archived v1.0.0 release contains all 14 R scripts (seven in each language), 14 PNG/TIFF figure pairs and 14 Excel audit workbooks. **Figures S1, S2 and S3 are complete in both languages.** Across the stored audits, **292 manuscript controls are marked successful**, with no failed controls detected. This is a check of saved files and data; **the authors have successfully run the scripts in RStudio; independent execution in a clean R environment has not yet been documented**. See `docs/repository_audit_2026-11-15.md`.
 
 The 1,200-dpi TIFF figures are **master exports**. Separate submission-ready derivatives may be needed to satisfy *PLOS ONE* figure specifications; do not overwrite the masters. The English Figure 3 TIFF is larger than 10 MB, and the PRISMA TIFF is 220 dpi.
 
 The coauthors have agreed to open publication of this work. The repository is publicly archived in Zenodo under DOI [10.5281/zenodo.24255907](https://doi.org/10.5281/zenodo.24255907). Respect privacy and third-party redistribution rights when reusing the materials.
+
+**Manuscript tables:** Tables 1 and 2 and Supplementary Tables S1–S3 are maintained separately as Word files for the manuscript and are not included in the archived v1.0.0 analysis package.
+
+**Versioning:** Documentation updates on GitHub's `main` branch do not change the immutable Zenodo v1.0.0 archive. A later GitHub release would be needed for a newly archived snapshot.
 
 ## Licenses and citation
 
