@@ -1,6 +1,8 @@
 # Reproducir las figuras en español
 
-Esta carpeta ofrece la versión en español de los datos, scripts y figuras de la revisión sistemática sobre lobomicosis. Es un complemento del repositorio principal en inglés, preparado para facilitar la reproducción de los análisis en Colombia y otros países hispanohablantes.
+Esta carpeta contiene la versión española de las bases, los siete scripts R y los siete conjuntos de figuras analíticas de la revisión sistemática de lobomicosis. **Las Figuras S1, S2 y S3 están completas** y cuentan con sus imágenes, resúmenes y auditorías. Es un complemento del repositorio principal en inglés.
+
+**Versión pública archivada:** https://doi.org/10.5281/zenodo.24255906
 
 ## Requisitos
 
@@ -40,12 +42,11 @@ La **Figura 1 (PRISMA)** se preparó por separado y no requiere un script de R. 
 
 ## Notas para interpretar los resultados
 
-- `ND` significa información no disponible; no equivale a cero.
+- **ND = no documentado** (*not documented*): información ausente o descrita insuficientemente en las publicaciones originales; no representa cero ni una respuesta clínica negativa.
 - Los denominadores cambian según la variable y el nivel de análisis (publicación o registro individual).
-- En la **Figura S2** no se representa «Cultivo», siguiendo la decisión editorial del equipo investigador.
 - Los resultados corresponden a una síntesis descriptiva de información publicada, no a estimaciones de incidencia ni a comparaciones causales de tratamientos.
 
-Para la descripción completa del estudio, consulta el `README.md` de la carpeta principal del repositorio. La versión en inglés es la referencia principal para el manuscrito destinado a *PLOS ONE*.
+Para la descripción completa del estudio, consulta el [`README.md`](../README.md) de la carpeta principal del repositorio. La versión en inglés es la referencia principal para el manuscrito destinado a *PLOS ONE*.
 
 ## Reutilización y citación
 
